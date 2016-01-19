@@ -7,4 +7,5 @@ __date__ = "$Jan 19, 2016 4:16:05 PM$"
 
 if __name__ == "__main__":
     print "Hello, Python!"
+    print " anotha one"
 '''This outputs Hello, Python! to the user.'''
